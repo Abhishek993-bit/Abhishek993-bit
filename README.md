@@ -4,10 +4,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">First-Year Student, Electronics and Communication Engineering 📚 [Delhi Technological University]</h3>
 
- <img align="right" alt="man" width="350" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
+ <img align="right" alt="man" width="200" src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek993-bit&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek993-bit" /> </p>
-<img align="right" alt="coding" width="180" src="https://media1.giphy.com/media/mFDWuDppjQJjite6FS/giphy.webp?cid=790b76114absl74bqecjuk9skprrorn4augw86bo7qa3xwn4&ep=v1_gifs_search&rid=giphy.webp&ct=g">
+<img align="right" alt="coding" width="100" src="https://media1.giphy.com/media/mFDWuDppjQJjite6FS/giphy.webp?cid=790b76114absl74bqecjuk9skprrorn4augw86bo7qa3xwn4&ep=v1_gifs_search&rid=giphy.webp&ct=g">
 
 
 - 🌱 I’m currently learning **electronic circuits, digital logic design, programming, signal processing, and communication systems.**
