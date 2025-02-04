@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">First-Year Student, Electronics and Communication Engineering 📚 [Delhi Technological University]</h3>
 
-<img align="right" alt="electronics" width="400" src="https://media.giphy.com/media/VOrgNdTI7K1SE/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek993-bit&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek993-bit" /> </p>
 
