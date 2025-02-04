@@ -1,4 +1,5 @@
-![ELECTRONIC AND COMMUNICATION ENGINEER](https://github.com/user-attachments/assets/a7a06c93-0ba0-47a9-aa91-d362c97c59c5)
+![ELECTRONIC AND COMMUNICATION ENGINEER_enhanced](https://github.com/user-attachments/assets/5c9cb3bc-963b-4c45-a7a9-601f4b893913)
+
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">First-Year Student, Electronics and Communication Engineering 📚 [Delhi Technological University]</h3>
